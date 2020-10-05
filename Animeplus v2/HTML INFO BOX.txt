@@ -1,0 +1,13 @@
+SEARCH HTML SEEMS
+<div class='infobox'>
+<h3>List Summer Project 2014 <span class='glyphicon-remove-circle onhide'/></h3>
+<span>
+<ul>
+  <li>Sabagebu! <span class='inf green'>Process</span></li>
+  <li>Hanayamata <span class='inf red'>Drop</span></li>
+  <li>Fate/kaleid liner Prisma&#9734;Illya 2wei!  <span class='inf orange'>Delay</span></li>
+</ul>
+</span>
+</div>
+
+then change!
